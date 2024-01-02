@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+img{
+    width: 200px;   
+    height: 200px;
+}
+.h{
+    position: relative;
+
+}
+.c{
+    position: absolute;
+    bottom : 4px;
+    background-color: rgba(51, 51, 53, 0.564);
+    width: 200px;
+}
+
+i{
+    color: white;
+    background-color: rgb(236, 191, 27);
+    border-radius: 100%;
+}

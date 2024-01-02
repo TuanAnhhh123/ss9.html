@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 12px;
+}
+
+.container{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    background-image: url(https://www.kkday.com/vi/blog/wp-content/uploads/chup-anh-dep-bang-dien-thoai-25.jpg);
+    background-size: cover;
+}
+
+.text{
+    position: absolute;
+    bottom : 32px;
+    left : 12px;
+}
+
+.linking{
+    position: absolute;
+    bottom : 4px;
+    left : 12px;
+}
